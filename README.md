@@ -29,13 +29,13 @@ Designed to help users create, browse, update, and manage notes with a clean and
 
 1. Clone the repository:
 
-   ```bash
-   git clone <repo-url>
-   ```
+  ```
+   git clone https://github.com/mnzeiter/go-keep-notes-api.git
+  ```
 
 2. Start services using Docker:
 
-   ```bash
+   ```
    docker-compose up --build
    ```
 
@@ -84,17 +84,10 @@ Designed to help users create, browse, update, and manage notes with a clean and
 
 ## 📷 API Test Screenshot
 
-Add your API testing screenshot here:
 
-```
-assets/api-test.png
-```
 
-To display it:
-
-```markdown
 ![API Test](assets/api-test.png)
-```
+
 
 ---
 
