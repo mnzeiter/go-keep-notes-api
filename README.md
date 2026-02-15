@@ -99,5 +99,4 @@ Designed to help users create, browse, update, and manage notes with a clean and
 
 
 ## ✨ A clean and modern notes API built with Go, Gin, and MongoDB.
-```
 
