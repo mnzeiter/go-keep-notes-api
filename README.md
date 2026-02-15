@@ -1,6 +1,4 @@
 
-
-```markdown
 # Go Keep Notes – Go + Gin Notes API
 
 A lightweight and efficient REST API built with **Go 1.25**, **Gin**, and **MongoDB 7**.  
