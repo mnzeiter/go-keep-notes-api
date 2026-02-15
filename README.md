@@ -52,7 +52,7 @@ Designed to help users create, browse, update, and manage notes with a clean and
 ### ➕ Create Note  
 **POST** `/notes`
 
-```json
+```
 {
   "title": "Hello",
   "content": "World"
@@ -69,12 +69,12 @@ Designed to help users create, browse, update, and manage notes with a clean and
 ### ✏️ Update Note  
 **PUT** `/notes/<id>`
 
-
+```
 {
   "title": "Updated Title",
   "content": "Updated Content"
 }
-
+```
 ---
 
 ### 🗑️ Delete Note  
